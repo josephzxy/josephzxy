@@ -2,7 +2,7 @@
 
 - Software Engineer, DevOps, AI Enthusiast, and natural language lover
 - Working in Hong Kong 🇭🇰
-- Fluent in English 🇬🇧, Madarin 🇨🇳, and Cantonese 🇭🇰
+- Fluent in Madarin 🇨🇳, English 🇬🇧, and Cantonese 🇭🇰
 
 ## More 🤓
 - [Linkedin](https://www.linkedin.com/in/josephzxy/)
