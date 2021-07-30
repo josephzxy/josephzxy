@@ -1,4 +1,4 @@
-## Hi, I am Joseph 👋
+## Hi, I am Joseph Zhu👋
 
 - Software Engineer, DevOps, AI Enthusiast, and natural language lover
 - Working in Hong Kong 🇭🇰
@@ -6,7 +6,6 @@
 
 ## More 🤓
 - [Linkedin](https://www.linkedin.com/in/josephzxy/)
-- [josephzxy.me](https://josephzxy.me)
 
 <!--
 **josephzxy/josephzxy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
