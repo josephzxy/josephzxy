@@ -1,10 +1,10 @@
 ## Hi, I am Joseph Zhu👋
 
-- Software Engineer, DevOps, AI Enthusiast, and natural language lover
-- Working in Hong Kong 🇭🇰
+- Senior Software Engineer with DevOps skills & exposure in blockchain industry.
+- Fluent in English, Cantonese, and native in Mandarin.
 
-## More 🤓
-- [Linkedin](https://www.linkedin.com/in/josephzxy/)
+## My LinkedIn Profile 🤓
+https://www.linkedin.com/in/josephzxy
 
 <!--
 **josephzxy/josephzxy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
