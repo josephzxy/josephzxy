@@ -1,6 +1,6 @@
 ## Hi, I am Joseph Zhu👋
 
-- Fullstack | DevOps | Blockchain 👨🏻‍💻
+- Backend | DevOps | Blockchain 👨🏻‍💻
 - Fluent in 🇬🇧 🇨🇳 🇭🇰
 
 
