@@ -1,7 +1,7 @@
 ## Hi, I am Joseph Zhu👋
 
 - Backend | DevOps | Blockchain 👨🏻‍💻
-- Fluent in 🇬🇧 🇨🇳 🇭🇰
+- Fluent in English, Cantonese, Mandarin
 
 
 ## LinkedIn Profile 🤓
